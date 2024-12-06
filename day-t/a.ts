@@ -1,2 +1,2 @@
-const input = Deno.readTextFileSync("./input.txt").split("\n");
+const input = Deno.readTextFileSync("./example1.txt").split("\n");
 console.log(input);
